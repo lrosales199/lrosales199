@@ -1,7 +1,6 @@
 ## Olá! Eu sou o Leonardo Rosa 🖐️
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-rosa-sales-5b49b3211/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]()
 
 ![Leonardo GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=lrosales199&layout=compact&theme=dark)
 
